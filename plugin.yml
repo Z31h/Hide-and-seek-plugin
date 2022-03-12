@@ -1,0 +1,7 @@
+name: Hideandseek
+version: 1.0.0
+main: me.cfg.hide.Main
+author: cfg
+description: Plugin
+commands:
+  seek:
